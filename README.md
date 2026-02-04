@@ -1,5 +1,10 @@
 # Bootstrap Buddy
 
+![License](https://img.shields.io/github/license/Inetum-Poland/Bootstrap-Buddy)
+![Platform: macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
+![MDM Agnostic](https://img.shields.io/badge/MDM-agnostic-blueviolet)
+![Latest Release](https://img.shields.io/github/v/release/Inetum-Poland/Bootstrap-Buddy)
+
 **Bootstrap Buddy is a macOS authorization plugin created by Inetum Poland that enables MDM administrators to escrow the Bootstrap Token to an MDM server (if supported) on Mac computers that have failed to do so.**
 
 It is entirely based on [Escrow Buddy](https://github.com/macadmins/escrow-buddy) from **Netflix Client Systems Engineering** team, so the credit goes to them.
@@ -56,7 +61,7 @@ Contributions don’t have to be code; we appreciate any help maintaining our [w
 
 ## Credits
 
-Bootstrap Buddy was created by **Apple Business Unit** at **Inetum Polska Sp. z o.o.**  
+Bootstrap Buddy was created by the **Apple Business Unit** at **Inetum Polska Sp. z o.o.**  
 It is however entirely based on [Escrow Buddy](https://github.com/macadmins/escrow-buddy) created by the **Netflix Client Systems Engineering** team.
 
 Local method of validating escrowed bootstrap token by verifying eligibility to perform _Erase All Content and Settings_ is based on the feature introduced in v. [3.0b11](https://github.com/Macjutsu/super/blob/main/CHANGELOG.md#30b11) of the [S.U.P.E.R.M.A.N.](https://github.com/Macjutsu/super/tree/main) script by Kevin M. White, to whom the credit is due.
