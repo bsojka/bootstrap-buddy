@@ -1,9 +1,12 @@
 # Bootstrap Buddy
 
-![License](https://img.shields.io/github/license/Inetum-Poland/Bootstrap-Buddy)
-![Platform: macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
-![MDM Agnostic](https://img.shields.io/badge/MDM-agnostic-blueviolet)
-![Latest Release](https://img.shields.io/github/v/release/Inetum-Poland/Bootstrap-Buddy)
+[![License](https://img.shields.io/github/license/Inetum-Poland/Bootstrap-Buddy?logo=apache&color=purple)](https://github.com/Inetum-Poland/bootstrap-buddy?tab=License-1-ov-file#)
+[![Platform: macOS](https://img.shields.io/badge/platform-macOS-lightgrey)](#)
+[![minOS](https://img.shields.io/badge/macOS-13.3%2B-success)](#)
+[![MDM Agnostic](https://img.shields.io/badge/MDM-agnostic-blueviolet)](#)
+[![GitHub Release](https://img.shields.io/github/v/release/Inetum-Poland/Bootstrap-Buddy)](https://github.com/Inetum-Poland/bootstrap-buddy/releases)
+[![GitHub Downloads total](https://img.shields.io/github/downloads/Inetum-Poland/bootstrap-buddy/total)](#)
+[![GitHub Downloads latest](https://img.shields.io/github/downloads/Inetum-Poland/bootstrap-buddy/latest/total)](#)
 
 **Bootstrap Buddy is a macOS authorization plugin created by Inetum Poland that enables MDM administrators to escrow the Bootstrap Token to an MDM server (if supported) on Mac computers that have failed to do so.**
 
